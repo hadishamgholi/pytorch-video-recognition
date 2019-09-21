@@ -1,9 +1,9 @@
 # dirs:
-data/*
-run/*
-__pycache__/*
-.idea/*
-.vscode/*
+data/
+run/
+__pycache__/
+.idea/
+.vscode/
 
 # files:
 
